@@ -4,7 +4,7 @@
 
 PULSE is a closed-source puzzle game for Android and iOS, built with Unity 6. It combines logical deduction, progressive discovery, and radial energy propagation: read the clues, change the network, and deliver energy to its targets to restore the ORIGIN system.
 
-![PULSE promotional artwork: a glowing energy network with the Turkish tagline “Solve the network. Awaken the energy.”](Assets/StoreListing/Pulse-GooglePlay-FeatureGraphic-TR-1024x500.png)
+![PULSE promotional artwork: a glowing energy network with the Turkish tagline “Solve the network. Awaken the energy.”](StoreListing/Pulse-GooglePlay-FeatureGraphic-TR-1024x500.png)
 
 This private repository contains the Unity project, original assets, frozen campaign content, development tools, and tests. The current focus is preparing the existing game for Google Play closed testing. Further product development is not currently planned by the owner.
 
@@ -30,10 +30,10 @@ The following images combine actual Unity Editor captures of the Consumer scene 
 
 <table>
   <tr>
-    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-01-Dunyayi-Uyandir-1080x1920.png"><img src="Assets/StoreListing/Pulse-Store-TR-01-Dunyayi-Uyandir-1080x1920.png" alt="ORIGIN galaxy view with the Turkish heading: Awaken a world" width="240"></a></td>
-    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-02-Yolunu-Kesfet-1080x1920.png"><img src="Assets/StoreListing/Pulse-Store-TR-02-Yolunu-Kesfet-1080x1920.png" alt="AURELIA sector map with the Turkish heading: Discover your path" width="240"></a></td>
-    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-03-Bolumleri-Kesfet-1080x1920.png"><img src="Assets/StoreListing/Pulse-Store-TR-03-Bolumleri-Kesfet-1080x1920.png" alt="AURELIA sector entry with the Turkish heading: A new connection in every level" width="240"></a></td>
-    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-04-Agi-Coz-1080x1920.png"><img src="Assets/StoreListing/Pulse-Store-TR-04-Agi-Coz-1080x1920.png" alt="AURELIA 7 puzzle with the Turkish heading: Read the clues. Solve the network." width="240"></a></td>
+    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-01-Dunyayi-Uyandir-1080x1920.png"><img src="StoreListing/Pulse-Store-TR-01-Dunyayi-Uyandir-1080x1920.png" alt="ORIGIN galaxy view with the Turkish heading: Awaken a world" width="240"></a></td>
+    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-02-Yolunu-Kesfet-1080x1920.png"><img src="StoreListing/Pulse-Store-TR-02-Yolunu-Kesfet-1080x1920.png" alt="AURELIA sector map with the Turkish heading: Discover your path" width="240"></a></td>
+    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-03-Bolumleri-Kesfet-1080x1920.png"><img src="StoreListing/Pulse-Store-TR-03-Bolumleri-Kesfet-1080x1920.png" alt="AURELIA sector entry with the Turkish heading: A new connection in every level" width="240"></a></td>
+    <td width="25%"><a href="Assets/StoreListing/Pulse-Store-TR-04-Agi-Coz-1080x1920.png"><img src="StoreListing/Pulse-Store-TR-04-Agi-Coz-1080x1920.png" alt="AURELIA 7 puzzle with the Turkish heading: Read the clues. Solve the network." width="240"></a></td>
   </tr>
   <tr>
     <td align="center">Explore ORIGIN</td>
